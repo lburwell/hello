@@ -7,5 +7,7 @@
 int main (void) {
 printf("Luke Burwell");
 printf("Construction Engineering");
+printf("Mark Forget\n");
+printf("Mathematics\n");
 return 0;
 }
