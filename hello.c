@@ -5,8 +5,8 @@
 
 #include <stdio>
 int main (void) {
-printf("Luke Burwell");
-printf("Construction Engineering");
+printf("Luke Burwell\n");
+printf("Construction Engineering\n");
 printf("Mark Forget\n");
 printf("Mathematics\n");
 return 0;
